@@ -1,0 +1,26 @@
+{
+  "name": "nodezip",
+  "version": "1.0.0",
+  "description": "Zip folder and files using Archiver",
+  "main": "app.js",
+  "scripts": {
+    "test": "node app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "NodeZip"
+  },
+  "keywords": [
+    "Node.js",
+    "Zip",
+    "FileSystem",
+    "Archiver"
+  ],
+  "author": "komalsdg",
+  "license": "ISC",
+  "dependencies": {
+    "archiver": "^5.0.2",
+    "ejs": "^3.1.5",
+    "express": "^4.17.1"
+  }
+}
